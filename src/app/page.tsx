@@ -10,7 +10,7 @@ import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import PricingCardThree from '@/components/sections/pricing/PricingCardThree';
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterSocial from '@/components/sections/footer/FooterSocial';
-import { Sparkles } from "lucide-react";
+import { Sparkles, Instagram, Facebook, Twitter } from "lucide-react";
 
 export default function Home() {
   return (
@@ -337,17 +337,17 @@ export default function Home() {
           ]}
           socialLinks={[
             {
-              icon: "Instagram",
+              icon: Instagram,
               href: "https://instagram.com/ristoranteeleganza",
               ariaLabel: "Follow us on Instagram"
             },
             {
-              icon: "Facebook",
+              icon: Facebook,
               href: "https://facebook.com/ristoranteeleganza",
               ariaLabel: "Like us on Facebook"
             },
             {
-              icon: "Twitter",
+              icon: Twitter,
               href: "https://twitter.com/ristoranteeleganza",
               ariaLabel: "Follow us on Twitter"
             }
