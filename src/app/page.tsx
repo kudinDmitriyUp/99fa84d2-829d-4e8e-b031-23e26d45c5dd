@@ -284,7 +284,7 @@ export default function Home() {
           tag="Reservations"
           title="Join Our Famiglia"
           description="Subscribe to receive exclusive offers, seasonal menu updates, and invitations to special culinary events"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763477525732-bfkg3lo4.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763523254460-o757ids8.jpg"
           imageAlt="Italian family cooking tradition"
           mediaPosition="right"
           inputPlaceholder="Enter your email"
